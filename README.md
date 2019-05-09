@@ -35,4 +35,11 @@ Zues - GUI admin client
     1. GUI admin application to manage server
 5. Develop an open standard for the client and server
 
+## How to Contribute
+
+**If you want to contribute to PoseidonSocial, be sure to review the [contribution
+guidelines](CONTRIBUTING.md).**
+
+**We use [GitHub issues](https://github.com/poseidonsocial/poseidon-server/issues) for
+tracking requests and bugs.**
 
