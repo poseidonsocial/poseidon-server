@@ -20,3 +20,8 @@ We will use something similar to SPF records to verify that a message coming fro
 
 All communication, without exception, between client and server and server and server will be encrypted.
 
+## Initial technology choices:
+  - Elixir
+  - Phoenix Framework
+  - Graphql/Absinthe
+  - Postgres/Cassandra/Redis/Kafka
